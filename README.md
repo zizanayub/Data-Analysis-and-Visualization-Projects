@@ -38,15 +38,21 @@ Go to "Filter" section and select what you need.
 
 
 ***33. If you want to show the customer's name in full, just increase the Y axis MAX AREA WIDTH.
+
 ![image](https://github.com/zizanayub/Sales-Insights-and-Dashboard_Power-BI/assets/65456659/4e23e922-5033-42bd-ade0-49ccbda37017)
 
 
 
+
 ***34. Find the top 5 products just how we found top 5 customers. 
+
 ![image](https://github.com/zizanayub/Sales-Insights-and-Dashboard_Power-BI/assets/65456659/ce7fb555-e7fb-4149-871f-2112be398f9d)
 
 
-***35. Make a revenue trend of last 4 years. It's wasy. Just do it by your own. 
+
+
+***35. Make a revenue trend of last 4 years. It's wasy. Just do it by your own.
+
 ![image](https://github.com/zizanayub/Sales-Insights-and-Dashboard_Power-BI/assets/65456659/a60a04e3-6d53-4b70-963b-f7dc8f974d6a)
 
 
