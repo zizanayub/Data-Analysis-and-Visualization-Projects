@@ -4,6 +4,7 @@
 **Part-5: Build Dashboard** 
 
 ***29. Verify through SQL: 
+
 SELECT sum(transactions.sales_amount)
 FROM sales.transactions
 INNER JOIN sales.date
