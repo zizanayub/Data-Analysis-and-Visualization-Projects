@@ -58,7 +58,9 @@ Go to "Filter" section and select what you need.
 
 
 
-**<u>Part-06 (Stakeholders Feedback)</u>**
+**Part-06 (Stakeholders Feedback)**
+
+
 
 
 ***01.Problem Solution: Only show relevant data visualization.
@@ -70,7 +72,11 @@ Suppose you selected a company named Nixon and it's showing different portions o
 
 We need only the relevant bars.What we can do?
 
-<u>Solution:</u> 
+Solution:
 Go to File >> Options and Settings >> Options >> Current File >> Report Settings >> Check "Change Default Visual Interaction from cross highlighting to 
 cross filtering" 
+
+
+![image](https://github.com/zizanayub/Power-BI-Projects/assets/65456659/689a08b9-516e-49c6-8b33-c906f945ee1d)
+
 
