@@ -58,7 +58,7 @@ Go to "Filter" section and select what you need.
 
 
 
-**Part-06 (Stakeholders Feedback)**
+**Part-07 (Stakeholders Feedback)**
 
 
 
@@ -78,5 +78,32 @@ cross filtering"
 
 
 ![image](https://github.com/zizanayub/Power-BI-Projects/assets/65456659/689a08b9-516e-49c6-8b33-c906f945ee1d)
+
+
+
+
+
+***02. Publish the dashboard.
+You need to have a work/education mail.
+
+
+
+
+***03. You can export to the POWERPOINT. 
+
+
+
+***04. BOOKMARKING. It's also possible. There is an option in the web UI. 
+
+
+![image](https://github.com/zizanayub/Power-BI-Projects/assets/65456659/37ee8389-3759-4008-b6f5-2a580d2381dd)
+
+
+
+***05. Comments on Web Power BI.
+It can also be done for collaboration purpose. 
+
+
+***06. Daily Email Reminder. 
 
 
