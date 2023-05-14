@@ -148,3 +148,13 @@ DIVIDE is a function that divides two values. In this case, it is dividing the t
 ![image](https://github.com/zizanayub/Power-BI-Projects/assets/65456659/2e0b2e89-9da5-4142-85a1-0ee7120f09be)
 
 
+
+
+***06. Revenue Contribution % by region.
+
+Revenue Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),ALL('sales customers'),ALL('sales markets'))) 
+
+![image](https://github.com/zizanayub/Power-BI-Projects/assets/65456659/dc01b4bc-63a4-44c9-9adf-95e37cf6a909)
+
+
+
