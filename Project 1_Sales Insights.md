@@ -113,7 +113,13 @@ It can also be done for collaboration purpose.
 
 
 ***01. Change sales revenue to norm_sales_revenue.
+
+
+
 **02. You can take the decision by using power apps**
+
+
+
 ***03.Add columns Profit Margin and Cost Margin and find the gaps.
 Not hard. Just click on new column and create it by using formula in formula bar. 
 
