@@ -123,3 +123,28 @@ It can also be done for collaboration purpose.
 ***03.Add columns Profit Margin and Cost Margin and find the gaps.
 Not hard. Just click on new column and create it by using formula in formula bar. 
 
+
+
+
+***04. Profit Margin 
+Formula: Profit Margin = (Divide(profit margin,revenue,0)
+
+
+
+
+***05. Profit Margin Contribution
+Profit Margin Contribution % = DIVIDE([Total Profit Margin],CALCULATE([Total Profit Margin],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))
+[Total Profit Margin] is a measure that calculates the total profit margin for all products, customers, and markets.
+
+
+CALCULATE([Total Profit Margin],ALL('sales products'),ALL('sales customers'),ALL('sales markets'))] is a calculated measure that calculates the total profit margin for all products, customers, and markets without any filters applied.
+
+
+
+DIVIDE is a function that divides two values. In this case, it is dividing the total profit margin for each product, customer, and market by the total profit margin for all products, customers, and markets.
+
+
+
+![image](https://github.com/zizanayub/Power-BI-Projects/assets/65456659/2e0b2e89-9da5-4142-85a1-0ee7120f09be)
+
+
