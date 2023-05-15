@@ -158,3 +158,16 @@ Revenue Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales product
 
 
 
+
+
+***07. Tabular view of customers. 
+
+Nothing hard.
+
+
+Remove the filer(Top 5) first. Then apply "Table" from visualizations. 
+
+
+![image](https://github.com/zizanayub/Power-BI-Projects/assets/65456659/05fa044a-463c-4537-9815-75410d9b73c1)
+
+
