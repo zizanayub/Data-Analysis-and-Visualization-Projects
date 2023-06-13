@@ -242,6 +242,10 @@ Customers Lost = CALCULATE(COUNT('Customer Data'[Churn Status]), 'Customer Data'
 
 ## ▶️ 01 (Visualizing the Male and Female Percentage)
 
+
+
+
+
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/81c50c02-daa9-4aca-be0f-91951c2c57bb)
 
 - Legend = Gender
@@ -251,10 +255,21 @@ Customers Lost = CALCULATE(COUNT('Customer Data'[Churn Status]), 'Customer Data'
 
 ## ▶️ 02 (Visualizing Another 4 Dount Charts)
 
+
+
+
+
+
+
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/bf929821-452e-4f93-8088-bfbf869cdca2)
 
 
 ## ▶️ 03 (Number of Customers and Churn Rate by Age Groups)
+
+
+
+
+
 
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/f51c0ea1-bbb9-4f0e-a81b-6989fd5bc9a9)
 
@@ -276,15 +291,26 @@ Customers Lost = CALCULATE(COUNT('Customer Data'[Churn Status]), 'Customer Data'
 
 1. Firstly, the bar charts were not sorted. We saw '<20' and then '>70'. Which is not correct.
 
+
+
+
+
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/91281c78-df97-4cb2-bf01-9be6740ea4e6)
 
 2. Solution: Just select the new column you created in the "Age Groups Table" and repeat the next process. 
+
+
+
+
 
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/8f4d3c60-c1f0-4e81-98a6-b146cc62405f)
 
 
 
 ## ▶️ 06 (Number of Customers and Churn Rate by Account Balance and Credit Scores)
+
+
+
 
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/664ab9bd-aab2-4c5b-98af-bd0d9d03e0a0)
 
@@ -320,11 +346,19 @@ Make a dropdown with the values of "Credit Status".
 3. First create the columns, then rename the columns and change the data type to percentage.
 
 
+
+
+
+
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/21102c8b-ce5b-48d4-b377-0547d22f8e06)
 
 
 
-4. Applied Steps: 
+4. Applied Steps:
+
+
+
+
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/cef2e7d4-948c-427f-ba7d-3ad5c56f7822)
 
 
@@ -333,6 +367,8 @@ Make a dropdown with the values of "Credit Status".
 
 
 ## ▶️ 10 (Gauge: Complete the Process)
+
+
 
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/cbf8e75d-827a-407c-bc40-27c208aa0f03)
  
