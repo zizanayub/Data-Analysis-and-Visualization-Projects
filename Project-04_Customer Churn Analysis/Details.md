@@ -168,3 +168,32 @@ Change the data types of IDs of each group to Whole Number.
 Finally, Go home and Click "Close and Apply". 
 
 
+
+
+
+
+
+## ▶️ 07 (Model View)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/d5f40a89-e904-407f-80f3-6e32b65f7a8b)
+
+1. "Age Groups" and "Customer Data" Tables are connected through the columns "Age Groups".
+
+2. "Account Balance Groups" and "Customer Data" Tables are connected through the columns "Account Balance".
+
+3. "Credit Score Groups" and "Customer Data" Tables are connected through the columns "Credit Scores"
+
+4. The connections built here are pre-connected.
+
+
+
+
+
+
+# 03. Data Analysis (Creating Measures Using DAX)
+
+## ▶️ 01 (Calculating Number of Customers)
+
+1. ```DAX
+   No of Customers = COUNT('Customer Data'[Customer ID])
+   ```
