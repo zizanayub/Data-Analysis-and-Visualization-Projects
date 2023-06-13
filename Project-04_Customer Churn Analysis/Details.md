@@ -197,3 +197,148 @@ Finally, Go home and Click "Close and Apply".
 1. ```DAX
    No of Customers = COUNT('Customer Data'[Customer ID])
    ```
+
+   This will count the number of customers following the `Customer ID` column.
+
+
+2. There will be a new column and a calculator icon near the column name.
+
+3. To check if everything in the process is OK, we can drop a card visualization.
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/9401fd25-3309-4dfd-8cdd-be22539fff78)
+
+
+
+
+## ▶️ 02 (Calculating the Number of Customers Lost)
+
+
+1. Use CALCULATE formula.
+```DAX
+Customers Lost = CALCULATE(COUNT('Customer Data'[Churn Status]), 'Customer Data'[Churn Status] = "Churned")
+```
+
+2. Check again with the card visualization.
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/60d529ac-6e32-4dff-8c8e-657d8ea12559)
+
+
+
+
+## ▶️ 03 (Calculating the Churn Rate)
+
+1. ```DAX
+   Churn Rate = 'Customer Data'[Customers Lost] / 'Customer Data'[No of Customers]
+   ```
+
+2. Change the data type to Percentage and decimal place to 1.
+
+3. Again check with the card visualization. 
+
+
+
+
+
+# 04. Data Visualization (Creating Visualizations and Generating Insights)
+
+## ▶️ 01 (Visualizing the Male and Female Percentage)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/81c50c02-daa9-4aca-be0f-91951c2c57bb)
+
+- Legend = Gender
+- Values = No of Customers
+
+
+
+## ▶️ 02 (Visualizing Another 4 Dount Charts)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/bf929821-452e-4f93-8088-bfbf869cdca2)
+
+
+## ▶️ 03 (Number of Customers and Churn Rate by Age Groups)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/f51c0ea1-bbb9-4f0e-a81b-6989fd5bc9a9)
+
+
+
+## 💡 04 (Sorting the Age Groups)
+
+1. At first, you will not see the `Age Groups` column sorted. To sort the age groups, first go to the "Age Groups" table we created.
+
+2. Select Age Groups > Column Tools > Sort by Column > Age Groups.
+
+3. Go to visualization, select 'sort axis' as "Age Groups" and "Sort Ascending". VOILA!
+
+
+
+
+
+## 😑 05 (Issue with Sorting)
+
+1. Firstly, the bar charts were not sorted. We saw '<20' and then '>70'. Which is not correct.
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/91281c78-df97-4cb2-bf01-9be6740ea4e6)
+
+2. Solution: Just select the new column you created in the "Age Groups Table" and repeat the next process. 
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/8f4d3c60-c1f0-4e81-98a6-b146cc62405f)
+
+
+
+## ▶️ 06 (Number of Customers and Churn Rate by Account Balance and Credit Scores)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/664ab9bd-aab2-4c5b-98af-bd0d9d03e0a0)
+
+
+Follow  the same process for the sorting issue. 
+
+
+
+## ▶️ 07 (Dropdown of Credit Status)
+Make a dropdown with the values of "Credit Status". 
+
+
+
+
+
+
+## ▶️ 08 (Gauge)
+
+1. Added "Churn Rate" as main value.
+   
+2. There are Maximum Value, Minimum Value, and target Value to drop.
+
+
+
+
+
+## 💡 09 (Custom Column Named Minimum Churn Rate, Maximum Churn Rate and Target Churn Rate)
+
+1. Create these 3 columns with "Custom Column"
+
+2. For minimum, set 0%. For maximum, set 100%. The target value should be 12%.
+
+3. First create the columns, then rename the columns and change the data type to percentage.
+
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/21102c8b-ce5b-48d4-b377-0547d22f8e06)
+
+
+
+4. Applied Steps: 
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/cef2e7d4-948c-427f-ba7d-3ad5c56f7822)
+
+
+
+
+
+
+## ▶️ 10 (Gauge: Complete the Process)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/cbf8e75d-827a-407c-bc40-27c208aa0f03)
+ 
+
+
+- Value: Churn Rate
+- Minimum Value: Minimum Churn Rate
+- Maximum Value: Maximum Churn Rate
+- Target Value: Target Churn Rate
