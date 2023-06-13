@@ -1,5 +1,5 @@
 ### 01. Data Preparation
-#### <i class="fa-solid fa-shoe-prints"> Step-01 </i> 
+#### :star: This repository is amazing! :sparkles:
 Go to Home and Select "Use First Row As Headers". At the rightmost panel, the applied steps will be seen and updated whenever we need. 
 
 
