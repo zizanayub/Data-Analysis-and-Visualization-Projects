@@ -1,8 +1,8 @@
-# 01. Data Preparation
+# 01. Data Preparation (Cleaning, Formatting and Reshaping the Data)
 
 
 
-## ▶️ Step-01 (Identifying the Headers)
+## ▶️ 01 (Identifying the Headers)
 Go to Home and Select "Use First Row As Headers". At the rightmost panel, the applied steps will be seen and updated whenever we need. 
 
 
@@ -83,7 +83,7 @@ Change the data types of the conditional columns (Age Groups, Credit Scores, Acc
 
 
 
-# 02. Data Modelling
+# 02. Data Modelling (Create Queries to Model Your Data)
 
 ## ▶️ 01 (Extracting Age Group Column and Removing Duplicate Columns)
 
@@ -111,5 +111,60 @@ Change the data types of the conditional columns (Age Groups, Credit Scores, Acc
 
 2. Additionally, the data types of the columns are in the 'Text' data types. So, they are not sortable.
 
-3. To reduce the hassle of sorting and obstacles during visualizations, we've done this first step of extracting this specific 'Age Groups Column'. 
+3. To reduce the hassle of sorting and obstacles during visualizations, we've done this first step of extracting this specific 'Age Groups Column'. Through this step, we will be able to sort the groups with the "Age Group ID".
+
+
+
+
+
+
+## ▶️ 03 (Conditional Column- Age Group ID)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/75c18f8e-06fa-4977-b66c-a6da91422d5b)
+
+
+
+Applied the 'Conditional Column' to the 'Age Groups' Column and define the Age Group ID. Apply "Sort Ascending" when the conditional column is done. 
+
+
+
+
+
+
+## ▶️ 04 (Conditional Column- Account Balance ID)
+
+Repeat the same process for Account Balance Groups.
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/37715419-8cc0-478e-a5ab-c8d12a718c04)
+
+
+
+
+
+
+
+
+## ▶️ 05 (Conditional Column- Credit Scores)
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/2391f18d-3a8a-4f94-961a-d4e7ea029033)
+
+
+Repeat the same process for the conditional Column for Credit Score Groups. There will be 6 columns. At last, apply the "Sort Ascending" for the 6 groups. 
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/f0122793-5eb6-4554-9a0b-049f3bf7a219)
+
+
+
+
+
+
+
+## ▶️ 06 (Changing the Data Types to the Whole Number)
+Change the data types of IDs of each group to Whole Number. 
+
+
+
+
+Finally, Go home and Click "Close and Apply". 
+
 
