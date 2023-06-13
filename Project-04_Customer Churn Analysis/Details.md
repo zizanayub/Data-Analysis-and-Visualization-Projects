@@ -2,25 +2,25 @@
 
 
 
-#### ▶️ Step-01 (Identifying the Headers)
+## ▶️ Step-01 (Identifying the Headers)
 Go to Home and Select "Use First Row As Headers". At the rightmost panel, the applied steps will be seen and updated whenever we need. 
 
 
 
 
-#### ▶️ 02 (Removing Estimated Salary)
+## ▶️ 02 (Removing Estimated Salary)
 The 'Estimated Salary' column need to be removed as there is another similar column named 'Balance'. The 'Applied Steps' can be renamed. He we can rename this specific step as 'Removed Estimated Salary'. 
 
 
 
 
-#### ▶️ 03 (Standardized Column Name)
+## ▶️ 03 (Standardized Column Name)
 Rename the column names and make it standardized (Example: 'customer_id' to 'Customer ID')
 
 
 
 
-#### ▶️ 04 (Changing the Data Type)
+## ▶️ 04 (Changing the Data Type)
 Customer ID = Whole number.
 
 Credit Score = Whole number.
@@ -40,19 +40,19 @@ Rest of the others = Whole number.
 
 
 
-#### ▶️ 10 (Age Groups-Custom Column)
+## ▶️ 10 (Age Groups-Custom Column)
 Make a new column of age groups with the customized column. Use 'If-else' to define the value ranges.
 
 
 
 
-#### ▶️ 11 (Credit Scores-Conditional Column)
+## ▶️ 11 (Credit Scores-Conditional Column)
 Do the same as the previous step. Group the credit scores by using 'If-else' and defining the value ranges with a difference of 10. 
 
 
 
 
-#### 💡 12 (Decision of grouping the column values)
+## 💡 12 (Decision of grouping the column values)
 1. When the distribution of the data is too much, it is needed to group the data to distribute the data in a systematic and decorated manner.
 
 
@@ -65,7 +65,7 @@ Do the same as the previous step. Group the credit scores by using 'If-else' and
 
 
 
-#### ▶️ 13 (Account Balance-Conditional Column)
+## ▶️ 13 (Account Balance-Conditional Column)
 
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/50ab6821-66b5-42b2-af9b-c6a6483bfc79)
 
@@ -75,7 +75,7 @@ Group the 'Account Balance' according to the figure.
 
 
 
-#### ▶️ 14 (Changing Data Types)
+## ▶️ 14 (Changing Data Types)
 Change the data types of the conditional columns (Age Groups, Credit Scores, Account Balance) to Text. 
 
 
@@ -85,7 +85,7 @@ Change the data types of the conditional columns (Age Groups, Credit Scores, Acc
 
 # 02. Data Modelling
 
-#### ▶️ 01 (Extracting Age Group Column and Removing Duplicate Columns)
+## ▶️ 01 (Extracting Age Group Column and Removing Duplicate Columns)
 
 1. Go to the "Queries" panel > Reference.
 
@@ -99,7 +99,13 @@ Change the data types of the conditional columns (Age Groups, Credit Scores, Acc
 
 
 
-#### ❓ 02 (Why We Did the first step)
+
+
+
+
+
+
+## ❓ 02 (Why We Did the first step)
 
 1. When we saw the age groups, we were unable to sort them. '<20' was less than '40-50'. But it was going under them.
 
