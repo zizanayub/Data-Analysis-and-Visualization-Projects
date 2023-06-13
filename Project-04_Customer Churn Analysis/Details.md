@@ -22,10 +22,17 @@ Rename the column names and make it standardized (Example: 'customer_id' to 'Cus
 
 #### ▶️ Step-04 (Changing the Data Type)
 Customer ID = Whole number.
+
 Credit Score = Whole number.
+
 Country = Text.
+
 Gender = Text.
+
 Age = Whole number.
+
 Tenure = Whole number.
+
 Currency = Fixed decimal number.
+
 Rest of the others = Whole number. 
