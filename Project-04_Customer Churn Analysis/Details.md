@@ -219,7 +219,14 @@ Customers Lost = CALCULATE(COUNT('Customer Data'[Churn Status]), 'Customer Data'
 ```
 
 2. Check again with the card visualization.
+
+
+
+
+
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/60d529ac-6e32-4dff-8c8e-657d8ea12559)
+
+
 
 
 
