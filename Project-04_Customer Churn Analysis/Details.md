@@ -440,3 +440,14 @@ Make a dropdown with the values of "Credit Status".
 
 ![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/74b89a23-4210-410d-b0ca-a289ab9f01c8)
 
+
+
+
+
+## ✨ Designed a whole New Dashboard on my own!
+
+
+
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/6f87c3da-4be5-4d90-8bad-f739402c5768)
+
