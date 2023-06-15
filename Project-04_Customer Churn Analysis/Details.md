@@ -385,3 +385,58 @@ Make a dropdown with the values of "Credit Status".
 - Minimum Value: Minimum Churn Rate
 - Maximum Value: Maximum Churn Rate
 - Target Value: Target Churn Rate
+
+
+
+
+# 05. Enhancing the Report (With Themes)
+
+
+## 💡 1 (Customization of the dashboard)
+
+
+
+
+1. Go to "View" and you will get many options to customize your dashboard.
+
+
+
+2. For now, I have customized it very simply.
+
+
+
+
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/64c51244-0454-4a16-97a0-cb6cbe410a13)
+
+
+
+
+3. Added title of the dashboard.
+
+
+
+
+
+
+
+
+## 💡 2 (Usage of Formatting)
+
+1. Under the "Format" section, we can align the visuals, and bring them forward and backward.
+
+
+2. We did the formatting to look like a better version.
+
+
+
+
+
+
+
+## 06. Final Visualization
+
+
+
+![image](https://github.com/zizanayub/Data-Analytics-Projects/assets/65456659/74b89a23-4210-410d-b0ca-a289ab9f01c8)
+
