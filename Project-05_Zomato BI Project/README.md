@@ -53,3 +53,25 @@ Probable requirements are:
 2. Ratings
 3. Segregate the data if they are delivering or not. 
 4. Does the `location` impact the `Average Cost`?
+
+
+
+
+
+I am adding some of the questions on my own:
+
+1. What's the average rating point under each price ranged restaurant?
+2. Rate the restaurants with "Top Rated","Good","Bad". 
+3. Does average price range in restaurants of a particular city define purchasing power of people for a particular locality?
+
+
+
+
+
+Based on the research, create a plan with:
+
+1. Construct Porter's 5 forces for some specific cities. 
+2. Zomato's next year expansion plan. 
+3. Timeline of the strategies. 
+4. How the initial marketing approach should be based on this dataset?
+5. Define Offers for new customers in new expanded areas to boost revenue. 
