@@ -75,3 +75,34 @@ Based on the research, create a plan with:
 3. Timeline of the strategies. 
 4. How the initial marketing approach should be based on this dataset?
 5. Define Offers for new customers in new expanded areas to boost revenue. 
+
+
+
+
+
+
+
+## 3. Transformation and Load
+
+
+
+
+#### 1. Red Marks in Columns
+
+
+
+![Alt text](image.png)
+
+
+
+The **red** marks in "Country Code" and "Restaurant ID" helps us to identify "There are some errors to this column". 
+
+
+
+
+**Solution**: 
+
+
+0. First, select a column you want to remove errors. 
+1. Go to `Remove Rows` in Home tab.
+2. Select `Remove Errors`
